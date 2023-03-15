@@ -1,4 +1,4 @@
-# masteruah
+# Pr
 ## _1. Commit inicial_
 - git clone https://github.com/bingchilling01/masteruah/
 - git add README.md 
